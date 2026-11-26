@@ -32,40 +32,40 @@ The image is rendered live from the keyless endpoint, so it follows the tax auth
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-11-25 by Dirección Nacional de Ingresos Tributarios (DNIT) — 30 rates. Updated 2026-11-25.</summary>
+<summary>Table as text: published 2026-11-26 by Dirección Nacional de Ingresos Tributarios (DNIT) — 30 rates. Updated 2026-11-26.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| AED | PYG | reference | 1749.79 |
-| ARS | PYG | reference | 4.04 |
-| AUD | PYG | reference | 4270.08 |
-| BOB | PYG | reference | 545.58 |
-| BRL | PYG | reference | 1097.25 |
-| CAD | PYG | reference | 4493.44 |
-| CHF | PYG | reference | 7685.01 |
-| CLP | PYG | reference | 6.26 |
-| CNY | PYG | reference | 964.5 |
-| COP | PYG | reference | 1.79 |
-| DKK | PYG | reference | 943.02 |
-| EUR | PYG | reference | 7048.46 |
-| GBP | PYG | reference | 8423.84 |
-| HKD | PYG | reference | 819.57 |
-| HUF | PYG | reference | 19.09 |
-| INR | PYG | reference | 69.17 |
-| JPY | PYG | reference | 40.36 |
-| KRW | PYG | reference | 4.78 |
-| MXN | PYG | reference | 333.07 |
-| NOK | PYG | reference | 656.67 |
-| NZD | PYG | reference | 3523.27 |
-| PEN | PYG | reference | 1850.82 |
-| SEK | PYG | reference | 628.66 |
-| SGD | PYG | reference | 4984.86 |
-| THB | PYG | reference | 189.64 |
-| TRY | PYG | reference | 126.94 |
-| TWD | PYG | reference | 195.07 |
-| USD | PYG | reference | 6426.98 |
-| UYU | PYG | reference | 158.02 |
-| ZAR | PYG | reference | 367.02 |
+| AED | PYG | reference | 1743.29 |
+| ARS | PYG | reference | 3.97 |
+| AUD | PYG | reference | 4210.7 |
+| BOB | PYG | reference | 541.26 |
+| BRL | PYG | reference | 1092.36 |
+| CAD | PYG | reference | 4493.11 |
+| CHF | PYG | reference | 7698.85 |
+| CLP | PYG | reference | 6.13 |
+| CNY | PYG | reference | 959.7 |
+| COP | PYG | reference | 1.76 |
+| DKK | PYG | reference | 936.85 |
+| EUR | PYG | reference | 7001.83 |
+| GBP | PYG | reference | 8361.22 |
+| HKD | PYG | reference | 817.01 |
+| HUF | PYG | reference | 18.75 |
+| INR | PYG | reference | 69.42 |
+| JPY | PYG | reference | 40.22 |
+| KRW | PYG | reference | 4.74 |
+| MXN | PYG | reference | 324.8 |
+| NOK | PYG | reference | 649.64 |
+| NZD | PYG | reference | 3491.63 |
+| PEN | PYG | reference | 1828.94 |
+| SEK | PYG | reference | 622.8 |
+| SGD | PYG | reference | 4954.07 |
+| THB | PYG | reference | 187.66 |
+| TRY | PYG | reference | 126.35 |
+| TWD | PYG | reference | 193 |
+| USD | PYG | reference | 6403.14 |
+| UYU | PYG | reference | 157.07 |
+| ZAR | PYG | reference | 361.85 |
 
 </details>
 
